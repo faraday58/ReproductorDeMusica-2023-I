@@ -66,7 +66,7 @@ namespace ReproductorDeMusica
                 }
                 if( i== 1  )
                 {
-                    MessageBox.Show("Usuario o Contraseña incorrecto  ");
+                    MessageBox.Show("Usuario o Contraseña incorrecto");
                 }
             }
         }
